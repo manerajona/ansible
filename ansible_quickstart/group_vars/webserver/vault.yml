@@ -1,0 +1,2 @@
+# Example: encrypted vars (leave values as plain text for demo)
+webserver_secret: "my_secret_value"

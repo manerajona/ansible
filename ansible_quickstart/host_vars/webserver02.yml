@@ -1,0 +1,2 @@
+# Host-specific variables for webserver02
+custom_var: value_for_webserver02

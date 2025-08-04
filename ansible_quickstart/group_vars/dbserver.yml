@@ -1,0 +1,2 @@
+# Variables for dbserver group (example)
+db_port: 5432
